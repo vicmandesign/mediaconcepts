@@ -1,0 +1,3328 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "17580",
+"files": {
+	"\/assets\/images\/2B5717EAFD938352.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3465,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938352.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938352.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938353.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3111,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938353.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938353.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938354.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3223,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938354.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938354.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938355.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3223,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938355.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938355.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93836C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3113,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836C.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93836D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3238,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836D.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93836E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3113,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836E.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93836F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3136,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836F.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93836F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938370.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3238,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938370.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938370.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938371.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2873,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938371.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938371.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938372.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8430,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938372.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938372.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938373.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3230,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938373.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938373.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938374.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3184,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938374.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938374.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938375.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9812,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938375.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938375.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938376.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2987,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938376.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938376.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938377.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10827,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938377.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938377.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93837C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837C.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93837D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9809,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837D.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93837E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9812,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837E.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93837F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9132,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837F.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93837F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938391.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9526,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938391.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938391.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938392.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11435,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938392.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938392.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938393.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14636,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938393.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938393.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938394.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9832,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938394.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938394.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938395.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9627,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938395.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938395.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938396.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6869,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938396.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938396.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938397.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11109,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938397.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938397.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD938399.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14619,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938399.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD938399.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839A.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8387,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839A.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839A.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11109,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839B.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9334,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839C.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839D.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8393,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839E.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD93839F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14706,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839F.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD93839F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383A8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12323,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383A8.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383A8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383A9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9627,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383A9.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383A9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383AA.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AA.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AA.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383AB.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9948,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AB.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AB.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383AC.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9249,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AC.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AC.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/2B5717EAFD9383AD.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9233,
+		"inputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AD.png",
+		"outputAbbreviatedPath": "\/assets\/images\/2B5717EAFD9383AD.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/3dl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 380885,
+		"inputAbbreviatedPath": "\/assets\/images\/3dl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/3dl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/3dp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365624,
+		"inputAbbreviatedPath": "\/assets\/images\/3dp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/3dp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D800A.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2860,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800A.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800A.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D800B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3100,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800B.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D800C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800C.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D800D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3154,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800D.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D800E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2986,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800E.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D800E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2893,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8010.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8011.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8011.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8011.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8012.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3159,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8012.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8012.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8013.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16881,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8013.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8013.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8014.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8014.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8014.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8015.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3150,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8015.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8015.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8016.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3154,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8016.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8016.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D8017.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17000,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8017.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D8017.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D801B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3139,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801B.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D801C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2887,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801C.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D801D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801D.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D801E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2975,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801E.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/620945D5EB2D801F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3146,
+		"inputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801F.png",
+		"outputAbbreviatedPath": "\/assets\/images\/620945D5EB2D801F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/anil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238956,
+		"inputAbbreviatedPath": "\/assets\/images\/anil.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/anil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/anip.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250032,
+		"inputAbbreviatedPath": "\/assets\/images\/anip.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/anip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/granl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 489499,
+		"inputAbbreviatedPath": "\/assets\/images\/granl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/granl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/granp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503074,
+		"inputAbbreviatedPath": "\/assets\/images\/granp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/granp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/motionl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440937,
+		"inputAbbreviatedPath": "\/assets\/images\/motionl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/motionl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/motionp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481905,
+		"inputAbbreviatedPath": "\/assets\/images\/motionp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/motionp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/postl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 434645,
+		"inputAbbreviatedPath": "\/assets\/images\/postl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/postl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/postp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 423651,
+		"inputAbbreviatedPath": "\/assets\/images\/postp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/postp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/prodl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 633022,
+		"inputAbbreviatedPath": "\/assets\/images\/prodl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/prodl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/prodp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 602031,
+		"inputAbbreviatedPath": "\/assets\/images\/prodp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/prodp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/splash.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17195,
+		"inputAbbreviatedPath": "\/assets\/images\/splash.png",
+		"outputAbbreviatedPath": "\/assets\/images\/splash.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/streaming.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.13234e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/streaming.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/streaming.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/streamingl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 515684,
+		"inputAbbreviatedPath": "\/assets\/images\/streamingl.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/streamingl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/streamingp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 425757,
+		"inputAbbreviatedPath": "\/assets\/images\/streamingp.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/streamingp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 729,
+		"inputAbbreviatedPath": "\/assets\/img\/icons.png",
+		"outputAbbreviatedPath": "\/assets\/img\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/reset.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/reset.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/swipebox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/swipebox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938352.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3465,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938352.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938352.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938353.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3111,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938353.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938353.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938354.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938354.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938354.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938355.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3223,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938355.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938355.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93836C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3113,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836C.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93836D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3238,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836D.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93836E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3113,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836E.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93836F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3136,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836F.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93836F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938370.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3238,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938370.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938370.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938371.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2873,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938371.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938371.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938372.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8430,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938372.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938372.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938373.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3230,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938373.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938373.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938374.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3184,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938374.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938374.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938375.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9812,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938375.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938375.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938376.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2987,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938376.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938376.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938377.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10827,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938377.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938377.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93837C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3184,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837C.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93837D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9809,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837D.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93837E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9812,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837E.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93837F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9132,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837F.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93837F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938391.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9526,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938391.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938391.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938392.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11435,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938392.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938392.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938393.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14636,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938393.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938393.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938394.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9832,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938394.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938394.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938395.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9627,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938395.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938395.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938396.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6869,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938396.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938396.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938397.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11109,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938397.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938397.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD938399.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14619,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938399.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD938399.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839A.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8387,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839A.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839A.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11109,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839B.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9334,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839C.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14636,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839D.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8393,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839E.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD93839F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14706,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839F.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD93839F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383A8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12323,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383A8.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383A8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383A9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9627,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383A9.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383A9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383AA.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6869,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AA.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AA.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383AB.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9948,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AB.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AB.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383AC.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9249,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AC.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AC.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/2B5717EAFD9383AD.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9233,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AD.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/2B5717EAFD9383AD.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/3dl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 380885,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/3dl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/3dl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/3dp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365624,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/3dp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/3dp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D800A.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2860,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800A.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800A.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D800B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3100,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800B.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D800C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800C.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D800D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3154,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800D.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D800E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2986,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800E.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D800E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2893,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8010.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8011.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2979,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8011.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8011.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8012.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3159,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8012.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8012.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8013.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16881,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8013.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8013.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8014.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8014.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8014.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8015.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3150,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8015.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8015.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8016.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3154,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8016.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8016.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D8017.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17000,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8017.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D8017.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D801B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3139,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801B.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D801C.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2887,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801C.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801C.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D801D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3132,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801D.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D801E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2975,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801E.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/620945D5EB2D801F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3146,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801F.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/620945D5EB2D801F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/anil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238956,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/anil.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/anil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/anip.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250032,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/anip.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/anip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/granl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 489499,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/granl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/granl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/granp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503074,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/granp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/granp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/motionl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440937,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/motionl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/motionl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/motionp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481905,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/motionp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/motionp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/postl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 434645,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/postl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/postl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/postp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 423651,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/postp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/postp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/prodl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 633022,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/prodl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/prodl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/prodp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 602031,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/prodp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/prodp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/splash.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17195,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/splash.png",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/splash.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/streaming.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/streaming.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/streaming.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/streamingl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 515684,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/streamingl.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/streamingl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/images\/streamingp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 425757,
+		"inputAbbreviatedPath": "\/en\/assets\/images\/streamingp.jpg",
+		"outputAbbreviatedPath": "\/en\/assets\/images\/streamingp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/assets\/img\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 729,
+		"inputAbbreviatedPath": "\/en\/assets\/img\/icons.png",
+		"outputAbbreviatedPath": "\/en\/assets\/img\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/css\/reset.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/css\/reset.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/css\/swipebox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/css\/swipebox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/js\/html5lightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/html5lightbox.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/html5lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/jquery.swipebox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/jquery.swipebox.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/jquery.swipebox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/loader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/loader.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/loader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/min\/jquery.classybox-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/min\/jquery.classybox-min.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/min\/jquery.classybox-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/min\/jquery.swipebox-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/min\/jquery.swipebox-min.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/min\/jquery.swipebox-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/min\/loader-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/min\/loader-min.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/min\/loader-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/min\/scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/min\/scripts-min.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/min\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/modernizr.custom.47888.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/modernizr.custom.47888.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/modernizr.custom.47888-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/ProgressiveImageSequence.class.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/ProgressiveImageSequence.class.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/ProgressiveImageSequence.class-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/en\/js\/min\/scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/sass\/footer.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/footer.sass",
+		"outputAbbreviatedPath": "\/en\/css\/footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/footermobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/footermobile.sass",
+		"outputAbbreviatedPath": "\/en\/css\/footermobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/loader.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/loader.sass",
+		"outputAbbreviatedPath": "\/en\/css\/loader.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/main.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/main.sass",
+		"outputAbbreviatedPath": "\/en\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/menu.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/menu.sass",
+		"outputAbbreviatedPath": "\/en\/css\/menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/menumobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/menumobile.sass",
+		"outputAbbreviatedPath": "\/en\/css\/menumobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/mobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/mobile.sass",
+		"outputAbbreviatedPath": "\/en\/css\/mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/sections.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/sections.sass",
+		"outputAbbreviatedPath": "\/en\/css\/sections.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/sass\/vars.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/sass\/vars.sass",
+		"outputAbbreviatedPath": "\/en\/css\/vars.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/en\/video\/esfera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75520,
+		"inputAbbreviatedPath": "\/en\/video\/esfera.jpg",
+		"outputAbbreviatedPath": "\/en\/video\/esfera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/en\/webfonts\/code\/code_bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/code\/code_bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/code\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/code\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/en\/webfonts\/code\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/webfonts\/code\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/code\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/code\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/code\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/code\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/code\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/lane\/lanenar_-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/lane\/lanenar_-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/lane\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/lane\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/en\/webfonts\/lane\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/webfonts\/lane\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/lane\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/lane\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/lane\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/lane\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/lane\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/neou\/neou-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/neou-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/neou\/neou-thin-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/neou-thin-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/neou\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/en\/webfonts\/neou\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/en\/webfonts\/neou\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/neou\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/en\/webfonts\/neou\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/en\/webfonts\/neou\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/html5lightbox.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/html5lightbox.js",
+		"outputAbbreviatedPath": "\/js\/min\/html5lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.swipebox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.swipebox.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.swipebox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/loader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/loader.js",
+		"outputAbbreviatedPath": "\/js\/min\/loader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery.classybox-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery.classybox-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.classybox-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery.swipebox-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery.swipebox-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.swipebox-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/loader-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/loader-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/loader-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/scripts-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/modernizr.custom.47888.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/modernizr.custom.47888.js",
+		"outputAbbreviatedPath": "\/js\/min\/modernizr.custom.47888-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/ProgressiveImageSequence.class.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/ProgressiveImageSequence.class.js",
+		"outputAbbreviatedPath": "\/js\/min\/ProgressiveImageSequence.class-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/js\/min\/scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/sass\/footer.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/footer.sass",
+		"outputAbbreviatedPath": "\/css\/footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/footermobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/footermobile.sass",
+		"outputAbbreviatedPath": "\/css\/footermobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/loader.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/loader.sass",
+		"outputAbbreviatedPath": "\/css\/loader.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/main.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/main.sass",
+		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/sass\/menu.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/menu.sass",
+		"outputAbbreviatedPath": "\/css\/menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/menumobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/menumobile.sass",
+		"outputAbbreviatedPath": "\/css\/menumobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/mobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/mobile.sass",
+		"outputAbbreviatedPath": "\/css\/mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/sections.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/sections.sass",
+		"outputAbbreviatedPath": "\/css\/sections.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/vars.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/vars.sass",
+		"outputAbbreviatedPath": "\/css\/vars.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/video\/esfera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75520,
+		"inputAbbreviatedPath": "\/video\/esfera.jpg",
+		"outputAbbreviatedPath": "\/video\/esfera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webfonts\/code\/code_bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/code\/code_bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/code\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/code\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/webfonts\/code\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webfonts\/code\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/code\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/code\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/code\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/code\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/code\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/lane\/lanenar_-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/lane\/lanenar_-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/lane\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/lane\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/webfonts\/lane\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webfonts\/lane\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/lane\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/lane\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/lane\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/lane\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/lane\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/neou\/neou-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/neou-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/neou\/neou-thin-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/neou-thin-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/neou\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/webfonts\/neou\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webfonts\/neou\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/neou\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webfonts\/neou\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webfonts\/neou\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Vicman",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "mediaconcepts",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_gray"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "ftp.mediaconcepts.co",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 1,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
